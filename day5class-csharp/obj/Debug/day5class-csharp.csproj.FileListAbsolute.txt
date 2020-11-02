@@ -1,0 +1,7 @@
+C:\Users\91814\source\repos\day5class-csharp\day5class-csharp\bin\Debug\day5class-csharp.exe.config
+C:\Users\91814\source\repos\day5class-csharp\day5class-csharp\bin\Debug\day5class-csharp.exe
+C:\Users\91814\source\repos\day5class-csharp\day5class-csharp\bin\Debug\day5class-csharp.pdb
+C:\Users\91814\source\repos\day5class-csharp\day5class-csharp\obj\Debug\day5class-csharp.csproj.CoreCompileInputs.cache
+C:\Users\91814\source\repos\day5class-csharp\day5class-csharp\obj\Debug\day5class-csharp.exe
+C:\Users\91814\source\repos\day5class-csharp\day5class-csharp\obj\Debug\day5class-csharp.pdb
+C:\Users\91814\source\repos\day5class-csharp\day5class-csharp\obj\Debug\day5class-csharp.csprojAssemblyReference.cache
